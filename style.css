@@ -1,0 +1,15 @@
+/*#a52a2a*/
+
+/*Top bar stylings*/
+
+.top-bar h3{
+    color: #a52a2a;
+    font-weight: 400;
+}
+.top-bar a{
+    color: #a49f96;
+}
+.top-bar a:hover{
+    color: #a52a2a;
+}
+/* top bar stylings*/
